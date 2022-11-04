@@ -1,6 +1,3 @@
-# Strapi plugin discord-notify
+# Strapi plugin discord-notify - UNDER DEVELOPMENT
 
-A quick description of discord-notify.
-# strapi-discord-notify-plugin
-# strapi-discord-notify-plugin
-# strapi-discord-notify-plugin
+WIP: Cooming soon
